@@ -11,7 +11,6 @@ out/
 docs/
 
 # Dotenv file
-.env
 .env*.local
 
 # Rust build artifacts
@@ -30,3 +29,4 @@ package-lock.json
 
 # OS files
 .DS_Store
+config.bat
